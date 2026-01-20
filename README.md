@@ -92,4 +92,4 @@ Gosto de aprender continuamente, criar soluções bem estruturadas e colaborar c
 ⭐ Fique à vontade para explorar meus repositórios, abrir issues ou entrar em contato!
 
 
-![Status](https://github-readme-stats.vercel.app/api?username=Bruno-Elvis&show_icons=true&theme=dracula) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Elvis&layout=compact&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Elvis&layout=compact&theme=dracula)
