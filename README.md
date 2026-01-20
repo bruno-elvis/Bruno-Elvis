@@ -84,8 +84,7 @@ Gosto de aprender continuamente, criar soluções bem estruturadas e colaborar c
 ## 🌐 Onde me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/brunoelvis](https://www.linkedin.com/in/brunoelvis)
-- 💻 GitHub: [github.com/Bruno-Elvis](https://github.com/Bruno-Elvis)
-- 🌎 Portfólio: [bruno-elvis.github.io/MeuPortfolio](https://bruno-elvis.github.io/MeuPortfolio)
+- 💻 Portfólio: [bruno-elvis.github.io/MeuPortfolio](https://bruno-elvis.github.io/MeuPortfolio)
 - 📧 E-mail: brunoelvis@outlook.com.br
 
 ---
