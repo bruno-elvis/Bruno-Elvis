@@ -16,7 +16,7 @@ Gosto de aprender continuamente, criar soluções bem estruturadas e colaborar c
 
 ---
 
-## 🧠 Stack Atual
+## 🧠 Stack`s
 
 ### 🔹 Linguagens
 - JavaScript (ES6+)
@@ -57,6 +57,7 @@ Gosto de aprender continuamente, criar soluções bem estruturadas e colaborar c
 - Linux e Windows
 - Jest (testes)
 - JasperServer (Relatórios)
+- Elasticsearch (Observabilidade)
 - Metodologias Ágeis (Scrum / Kanban)
 
 ---
@@ -67,6 +68,8 @@ Gosto de aprender continuamente, criar soluções bem estruturadas e colaborar c
 - Integração de **LLMs (local e cloud)** com aplicações web
 - Conexão de fontes de dados relacionais e não relacionais com IA
 - Implementação e avaliação de métricas em sistemas **RAG**
+- Definição, treinamento e validação de modelos de Machine Learning
+- Imeplementação e execução de pipelines de IA, ML e DL
 - Criação de **PoC’s** envolvendo IA aplicada a produtos reais
 
 ---
