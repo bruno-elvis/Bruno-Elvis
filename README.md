@@ -4,7 +4,7 @@
 
 📍 Vitória – ES  
 🎓 Bacharel em Sistemas de Informação  
-🎓 Pós-graduação em Inteligência Artificial e Machine Learning (em andamento – 2026)
+🎓 Pós-graduação em Inteligência Artificial e Machine Learning
 
 ---
 
